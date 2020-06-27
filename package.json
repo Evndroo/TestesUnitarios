@@ -1,0 +1,19 @@
+{
+  "name": "testes-unitarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --exit",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "chai-subset": "^1.6.0",
+    "express": "^4.17.1",
+    "mocha": "^8.0.1"
+  }
+}
