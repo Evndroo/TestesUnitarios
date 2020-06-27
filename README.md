@@ -1,4 +1,4 @@
-# TestesUnitarios
+# Testes Unitários e de Integração
 Testes unitários e de integração escritos utilizando Mocha e Chai.
 
 Após rodar o comando:
